@@ -4,7 +4,8 @@ local omg = {
     [33781793] = 'https://raw.githubusercontent.com/couldntBeT/Main/refs/heads/main/AnimeShadow.lua',
     [32380537] = 'https://raw.githubusercontent.com/couldntBeT/Main/refs/heads/main/BallTowerDefense.lua',
     [34427843] = 'https://raw.githubusercontent.com/couldntBeT/Main/refs/heads/main/HorrorTowerDefense.lua',
-    [33298472] = 'https://raw.githubusercontent.com/couldntBeT/Main/refs/heads/main/FiveNightsTD.lua'
+    [33298472] = 'https://raw.githubusercontent.com/couldntBeT/Main/refs/heads/main/FiveNightsTD.lua',
+    [14733518] = 'https://raw.githubusercontent.com/couldntBeT/Main/refs/heads/main/TowerDefenseX.lua',
 
 }   
 
