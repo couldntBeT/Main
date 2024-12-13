@@ -6,6 +6,7 @@ local omg = {
     [34427843] = 'https://raw.githubusercontent.com/couldntBeT/Main/refs/heads/main/HorrorTowerDefense.lua',
     [33298472] = 'https://raw.githubusercontent.com/couldntBeT/Main/refs/heads/main/FiveNightsTD.lua',
     [14733518] = 'https://raw.githubusercontent.com/couldntBeT/Main/refs/heads/main/TowerDefenseX.lua',
+    [35173505] = 'https://raw.githubusercontent.com/couldntBeT/Main/refs/heads/main/GoFishing.lua',
 
 }   
 
