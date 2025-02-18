@@ -1,4 +1,10 @@
 repeat task.wait() until game:IsLoaded()
+local keyg = {33298472}
+if table.find(keyg,game.CreatorId) and (not script_key or script_key and string.len(script_key) <= 8) then
+    game:GetService("StarterGui"):SetCore("SendNotification",{Title = "INVALID KEY",Text = "TUTORIAL COPIED TO CLIPBOARD",})
+    setclipboard("https://www.youtube.com/watch?v=LovYm9JtlZI")
+    return
+end
 local omg = {
     [8204913] = 'https://raw.githubusercontent.com/couldntBeT/Main/refs/heads/main/UltimateTowerDefense.lua',
     [33694454] = 'https://raw.githubusercontent.com/couldntBeT/Main/refs/heads/main/PixelTowerDefense.lua',
