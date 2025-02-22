@@ -4,6 +4,7 @@ if table.find(keyg,game.CreatorId) and (not script_key or script_key and string.
     game:GetService("StarterGui"):SetCore("SendNotification",{Title = "INVALID KEY",Text = "TUTORIAL COPIED TO CLIPBOARD",})
     setclipboard("https://www.youtube.com/watch?v=LovYm9JtlZI")
     return
+elseif not table.find(keyg,game.CreatorId) and script_key then script_key = nil
 end
 local omg = {
     [8204913] = 'https://raw.githubusercontent.com/couldntBeT/Main/refs/heads/main/UltimateTowerDefense.lua',
