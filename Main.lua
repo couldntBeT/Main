@@ -7,7 +7,7 @@ if table.find(keyg,game.CreatorId) and (not script_key or script_key and string.
 elseif not table.find(keyg,game.CreatorId) and script_key then script_key = nil
 end
 local omg = {
-    [8204913] = 'https://raw.githubusercontent.com/couldntBeT/Main/refs/heads/main/UltimateTowerDefense.lua',
+    [8204913] = 'https://api.luarmor.net/files/v3/loaders/eca6b58ce796803391df2338fc566f7a.lua',
     [33694454] = 'https://raw.githubusercontent.com/couldntBeT/Main/refs/heads/main/PixelTowerDefense.lua',
     [33781793] = 'https://raw.githubusercontent.com/couldntBeT/Main/refs/heads/main/AnimeShadow.lua',
     [32380537] = 'https://api.luarmor.net/files/v3/loaders/bca2ee0a76cb1ae0d8710859f2b9b056.lua',
