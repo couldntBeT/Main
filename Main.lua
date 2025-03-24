@@ -16,6 +16,7 @@ local omg = {
     [14733518] = 'https://api.luarmor.net/files/v3/loaders/7d996863caef9a2fe732e8d65f1f9285.lua',
     [35173505] = 'https://raw.githubusercontent.com/couldntBeT/Main/refs/heads/main/GoFishing.lua',
     [34990762] = 'https://api.luarmor.net/files/v3/loaders/955be948b5acf58d6bb947058d21eea4.lua',
+    [5522949] = 'https://api.luarmor.net/files/v3/loaders/80d36647da6644ac1a80fbe8da4e831c.lua', -- RCU
 
 }   
 
