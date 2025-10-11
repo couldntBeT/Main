@@ -1,0 +1,51 @@
+[
+    {
+        "PlaceInfo": {
+            "Valid": true,
+            "Path": 1,
+            "Position": "46.654579162597656, -21.75, -49.73286056518555",
+            "Rotation": 180,
+            "CF": "46.6545792, -21.75, -49.7328606, 0.707106829, 0, -0.707106769, -0, 1, -0, 0.707106829, 0, 0.707106769"
+        },
+        "Time": 1,
+        "TowerName": "unit_rafflesia"
+    },
+    {
+        "PlaceInfo": {
+            "Valid": true,
+            "Path": 2,
+            "Position": "-41.18735122680664, -21.749353408813477, -39.4427375793457",
+            "Rotation": 180,
+            "CF": "-41.1873512, -21.7493534, -39.4427376, 0.830875695, 0, 0.556458056, -0, 1, -0, -0.556458056, 0, 0.830875695"
+        },
+        "Time": 8,
+        "TowerName": "unit_rafflesia"
+    },
+    {
+        "TowerUpgrade": 46.654579162597659,
+        "Name": "unit_rafflesia",
+        "Time": 50
+    },
+    {
+        "TowerUpgrade": -41.18735122680664,
+        "Name": "unit_rafflesia",
+        "Time": 81
+    },
+    {
+        "SoldTime": 111,
+        "Name": "unit_rafflesia",
+        "TowerSold": -41.18735122680664
+    },
+    {
+        "SoldTime": 112,
+        "Name": "unit_rafflesia",
+        "TowerSold": 46.654579162597659
+    },
+    {
+        "MacroInfo": {
+            "Speed": "2x Speed",
+            "Difficulty": "Apocalypse",
+            "SeedRate": "37k Seeds/h (2x Seeds)"
+        }
+    }
+]
