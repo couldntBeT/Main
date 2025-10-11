@@ -1,0 +1,520 @@
+[
+    {
+        "PlaceInfo": {
+            "Valid": true,
+            "Position": "-329.1592102050781, 61.68030548095703, -110.91239929199219",
+            "Rotation": 180,
+            "CF": "-329.15921, 61.6803055, -110.912399, -1, 0, -8.74227766e-08, 0, 1, 0, 8.74227766e-08, 0, -1"
+        },
+        "Time": 5,
+        "TowerName": "unit_tomato_plant"
+    },
+    {
+        "TowerUpgrade": -329.1592102050781,
+        "Name": "unit_tomato_plant",
+        "Time": 6
+    },
+    {
+        "TowerUpgrade": -329.1592102050781,
+        "Name": "unit_tomato_plant",
+        "Time": 7
+    },
+    {
+        "TowerUpgrade": -329.1592102050781,
+        "Name": "unit_tomato_plant",
+        "Time": 19
+    },
+    {
+        "TowerUpgrade": -329.1592102050781,
+        "Name": "unit_tomato_plant",
+        "Time": 48
+    },
+    {
+        "PlaceInfo": {
+            "Valid": true,
+            "Position": "-326.570556640625, 61.68030548095703, -128.8228302001953",
+            "Rotation": 180,
+            "CF": "-326.570557, 61.6803055, -128.82283, -1, 0, -8.74227766e-08, 0, 1, 0, 8.74227766e-08, 0, -1"
+        },
+        "Time": 54,
+        "TowerName": "unit_tomato_plant"
+    },
+    {
+        "TowerUpgrade": -326.570556640625,
+        "Name": "unit_tomato_plant",
+        "Time": 55
+    },
+    {
+        "TowerUpgrade": -326.570556640625,
+        "Name": "unit_tomato_plant",
+        "Time": 70
+    },
+    {
+        "TowerUpgrade": -326.570556640625,
+        "Name": "unit_tomato_plant",
+        "Time": 71
+    },
+    {
+        "TowerUpgrade": -326.570556640625,
+        "Name": "unit_tomato_plant",
+        "Time": 87
+    },
+    {
+        "PlaceInfo": {
+            "Valid": true,
+            "Position": "-326.42608642578125, 61.68030548095703, -126.07656860351562",
+            "Rotation": 180,
+            "CF": "-326.426086, 61.6803055, -126.076569, -1, 0, -8.74227766e-08, 0, 1, 0, 8.74227766e-08, 0, -1"
+        },
+        "Time": 92,
+        "TowerName": "unit_tomato_plant"
+    },
+    {
+        "TowerUpgrade": -326.42608642578127,
+        "Name": "unit_tomato_plant",
+        "Time": 93
+    },
+    {
+        "TowerUpgrade": -326.42608642578127,
+        "Name": "unit_tomato_plant",
+        "Time": 93
+    },
+    {
+        "TowerUpgrade": -326.42608642578127,
+        "Name": "unit_tomato_plant",
+        "Time": 93
+    },
+    {
+        "TowerUpgrade": -326.42608642578127,
+        "Name": "unit_tomato_plant",
+        "Time": 101
+    },
+    {
+        "PlaceInfo": {
+            "Valid": true,
+            "Position": "-324.2075500488281, 61.68030548095703, -127.49909210205078",
+            "Rotation": 180,
+            "CF": "-324.20755, 61.6803055, -127.499092, -1, 0, -8.74227766e-08, 0, 1, 0, 8.74227766e-08, 0, -1"
+        },
+        "Time": 108,
+        "TowerName": "unit_tomato_plant"
+    },
+    {
+        "TowerUpgrade": -324.2075500488281,
+        "Name": "unit_tomato_plant",
+        "Time": 110
+    },
+    {
+        "TowerUpgrade": -324.2075500488281,
+        "Name": "unit_tomato_plant",
+        "Time": 113
+    },
+    {
+        "TowerUpgrade": -324.2075500488281,
+        "Name": "unit_tomato_plant",
+        "Time": 124
+    },
+    {
+        "TowerUpgrade": -324.2075500488281,
+        "Name": "unit_tomato_plant",
+        "Time": 130
+    },
+    {
+        "PlaceInfo": {
+            "Valid": true,
+            "Position": "-323.89007568359375, 61.68030548095703, -130.72203063964844",
+            "Rotation": 180,
+            "CF": "-323.890076, 61.6803055, -130.722031, -1, 0, -8.74227766e-08, 0, 1, 0, 8.74227766e-08, 0, -1"
+        },
+        "Time": 133,
+        "TowerName": "unit_tomato_plant"
+    },
+    {
+        "TowerUpgrade": -323.89007568359377,
+        "Name": "unit_tomato_plant",
+        "Time": 134
+    },
+    {
+        "TowerUpgrade": -323.89007568359377,
+        "Name": "unit_tomato_plant",
+        "Time": 134
+    },
+    {
+        "TowerUpgrade": -323.89007568359377,
+        "Name": "unit_tomato_plant",
+        "Time": 135
+    },
+    {
+        "TowerUpgrade": -323.89007568359377,
+        "Name": "unit_tomato_plant",
+        "Time": 136
+    },
+    {
+        "PlaceInfo": {
+            "Valid": true,
+            "Position": "-326.69476318359375, 61.68030548095703, -131.84744262695312",
+            "Rotation": 180,
+            "CF": "-326.694763, 61.6803055, -131.847443, -1, 0, -8.74227766e-08, 0, 1, 0, 8.74227766e-08, 0, -1"
+        },
+        "Time": 137,
+        "TowerName": "unit_tomato_plant"
+    },
+    {
+        "TowerUpgrade": -326.69476318359377,
+        "Name": "unit_tomato_plant",
+        "Time": 138
+    },
+    {
+        "TowerUpgrade": -326.69476318359377,
+        "Name": "unit_tomato_plant",
+        "Time": 138
+    },
+    {
+        "TowerUpgrade": -326.69476318359377,
+        "Name": "unit_tomato_plant",
+        "Time": 148
+    },
+    {
+        "TowerUpgrade": -326.69476318359377,
+        "Name": "unit_tomato_plant",
+        "Time": 153
+    },
+    {
+        "PlaceInfo": {
+            "Valid": true,
+            "Position": "-323.80731201171875, 61.68030548095703, -123.92933654785156",
+            "Rotation": 180,
+            "CF": "-323.807312, 61.6803055, -123.929337, -1, 0, -8.74227766e-08, 0, 1, 0, 8.74227766e-08, 0, -1"
+        },
+        "Time": 158,
+        "TowerName": "unit_tomato_plant"
+    },
+    {
+        "TowerUpgrade": -323.80731201171877,
+        "Name": "unit_tomato_plant",
+        "Time": 158
+    },
+    {
+        "TowerUpgrade": -323.80731201171877,
+        "Name": "unit_tomato_plant",
+        "Time": 159
+    },
+    {
+        "TowerUpgrade": -323.80731201171877,
+        "Name": "unit_tomato_plant",
+        "Time": 161
+    },
+    {
+        "TowerUpgrade": -323.80731201171877,
+        "Name": "unit_tomato_plant",
+        "Time": 166
+    },
+    {
+        "PlaceInfo": {
+            "Valid": true,
+            "Position": "-326.7481689453125, 61.68030548095703, -123.32878112792969",
+            "Rotation": 180,
+            "CF": "-326.748169, 61.6803055, -123.328781, -1, 0, -8.74227766e-08, 0, 1, 0, 8.74227766e-08, 0, -1"
+        },
+        "Time": 168,
+        "TowerName": "unit_tomato_plant"
+    },
+    {
+        "TowerUpgrade": -326.7481689453125,
+        "Name": "unit_tomato_plant",
+        "Time": 169
+    },
+    {
+        "TowerUpgrade": -326.7481689453125,
+        "Name": "unit_tomato_plant",
+        "Time": 177
+    },
+    {
+        "TowerUpgrade": -326.7481689453125,
+        "Name": "unit_tomato_plant",
+        "Time": 177
+    },
+    {
+        "TowerUpgrade": -326.7481689453125,
+        "Name": "unit_tomato_plant",
+        "Time": 178
+    },
+    {
+        "PlaceInfo": {
+            "Valid": true,
+            "Position": "-329.0802917480469, 61.68030548095703, -124.81486511230469",
+            "Rotation": 180,
+            "CF": "-329.080292, 61.6803055, -124.814865, -1, 0, -8.74227766e-08, 0, 1, 0, 8.74227766e-08, 0, -1"
+        },
+        "Time": 180,
+        "TowerName": "unit_tomato_plant"
+    },
+    {
+        "TowerUpgrade": -329.0802917480469,
+        "Name": "unit_tomato_plant",
+        "Time": 180
+    },
+    {
+        "TowerUpgrade": -329.0802917480469,
+        "Name": "unit_tomato_plant",
+        "Time": 181
+    },
+    {
+        "TowerUpgrade": -329.0802917480469,
+        "Name": "unit_tomato_plant",
+        "Time": 182
+    },
+    {
+        "TowerUpgrade": -329.0802917480469,
+        "Name": "unit_tomato_plant",
+        "Time": 188
+    },
+    {
+        "PlaceInfo": {
+            "Valid": true,
+            "Position": "-329.38323974609375, 61.68030548095703, -128.2781524658203",
+            "Rotation": 180,
+            "CF": "-329.38324, 61.6803055, -128.278152, -1, 0, -8.74227766e-08, 0, 1, 0, 8.74227766e-08, 0, -1"
+        },
+        "Time": 190,
+        "TowerName": "unit_tomato_plant"
+    },
+    {
+        "TowerUpgrade": -329.38323974609377,
+        "Name": "unit_tomato_plant",
+        "Time": 191
+    },
+    {
+        "TowerUpgrade": -329.38323974609377,
+        "Name": "unit_tomato_plant",
+        "Time": 191
+    },
+    {
+        "TowerUpgrade": -329.38323974609377,
+        "Name": "unit_tomato_plant",
+        "Time": 191
+    },
+    {
+        "TowerUpgrade": -329.38323974609377,
+        "Name": "unit_tomato_plant",
+        "Time": 192
+    },
+    {
+        "PlaceInfo": {
+            "Valid": true,
+            "Position": "-329.2928771972656, 61.68030548095703, -130.8788604736328",
+            "Rotation": 180,
+            "CF": "-329.292877, 61.6803055, -130.87886, -1, 0, -8.74227766e-08, 0, 1, 0, 8.74227766e-08, 0, -1"
+        },
+        "Time": 195,
+        "TowerName": "unit_tomato_plant"
+    },
+    {
+        "TowerUpgrade": -329.2928771972656,
+        "Name": "unit_tomato_plant",
+        "Time": 195
+    },
+    {
+        "TowerUpgrade": -329.2928771972656,
+        "Name": "unit_tomato_plant",
+        "Time": 196
+    },
+    {
+        "TowerUpgrade": -329.2928771972656,
+        "Name": "unit_tomato_plant",
+        "Time": 197
+    },
+    {
+        "TowerUpgrade": -329.2928771972656,
+        "Name": "unit_tomato_plant",
+        "Time": 198
+    },
+    {
+        "PlaceInfo": {
+            "Valid": true,
+            "Position": "-328.9112548828125, 61.68030548095703, -133.37396240234375",
+            "Rotation": 180,
+            "CF": "-328.911255, 61.6803055, -133.373962, -1, 0, -8.74227766e-08, 0, 1, 0, 8.74227766e-08, 0, -1"
+        },
+        "Time": 203,
+        "TowerName": "unit_tomato_plant"
+    },
+    {
+        "TowerUpgrade": -328.9112548828125,
+        "Name": "unit_tomato_plant",
+        "Time": 205
+    },
+    {
+        "TowerUpgrade": -328.9112548828125,
+        "Name": "unit_tomato_plant",
+        "Time": 206
+    },
+    {
+        "TowerUpgrade": -328.9112548828125,
+        "Name": "unit_tomato_plant",
+        "Time": 208
+    },
+    {
+        "TowerUpgrade": -328.9112548828125,
+        "Name": "unit_tomato_plant",
+        "Time": 209
+    },
+    {
+        "PlaceInfo": {
+            "Valid": true,
+            "Position": "-328.56146240234375, 61.68030548095703, -121.57846069335938",
+            "Rotation": 180,
+            "CF": "-328.561462, 61.6803055, -121.578461, -1, 0, -8.74227766e-08, 0, 1, 0, 8.74227766e-08, 0, -1"
+        },
+        "Time": 212,
+        "TowerName": "unit_tomato_plant"
+    },
+    {
+        "TowerUpgrade": -328.56146240234377,
+        "Name": "unit_tomato_plant",
+        "Time": 212
+    },
+    {
+        "TowerUpgrade": -328.56146240234377,
+        "Name": "unit_tomato_plant",
+        "Time": 213
+    },
+    {
+        "TowerUpgrade": -328.56146240234377,
+        "Name": "unit_tomato_plant",
+        "Time": 214
+    },
+    {
+        "TowerUpgrade": -328.56146240234377,
+        "Name": "unit_tomato_plant",
+        "Time": 214
+    },
+    {
+        "PlaceInfo": {
+            "Valid": true,
+            "Position": "-324.5561828613281, 61.68030548095703, -120.33625030517578",
+            "Rotation": 180,
+            "CF": "-324.556183, 61.6803055, -120.33625, -1, 0, -8.74227766e-08, 0, 1, 0, 8.74227766e-08, 0, -1"
+        },
+        "Time": 216,
+        "TowerName": "unit_tomato_plant"
+    },
+    {
+        "TowerUpgrade": -324.5561828613281,
+        "Name": "unit_tomato_plant",
+        "Time": 216
+    },
+    {
+        "TowerUpgrade": -324.5561828613281,
+        "Name": "unit_tomato_plant",
+        "Time": 217
+    },
+    {
+        "TowerUpgrade": -324.5561828613281,
+        "Name": "unit_tomato_plant",
+        "Time": 217
+    },
+    {
+        "TowerUpgrade": -324.5561828613281,
+        "Name": "unit_tomato_plant",
+        "Time": 218
+    },
+    {
+        "PlaceInfo": {
+            "Valid": true,
+            "Position": "-321.39862060546875, 61.68030548095703, -132.74378967285156",
+            "Rotation": 180,
+            "CF": "-321.398621, 61.6803055, -132.74379, -1, 0, -8.74227766e-08, 0, 1, 0, 8.74227766e-08, 0, -1"
+        },
+        "Time": 220,
+        "TowerName": "unit_tomato_plant"
+    },
+    {
+        "TowerUpgrade": -321.39862060546877,
+        "Name": "unit_tomato_plant",
+        "Time": 220
+    },
+    {
+        "TowerUpgrade": -321.39862060546877,
+        "Name": "unit_tomato_plant",
+        "Time": 221
+    },
+    {
+        "TowerUpgrade": -321.39862060546877,
+        "Name": "unit_tomato_plant",
+        "Time": 221
+    },
+    {
+        "TowerUpgrade": -321.39862060546877,
+        "Name": "unit_tomato_plant",
+        "Time": 222
+    },
+    {
+        "PlaceInfo": {
+            "Valid": true,
+            "Position": "-319.9566650390625, 61.68030548095703, -129.76727294921875",
+            "Rotation": 180,
+            "CF": "-319.956665, 61.6803055, -129.767273, -1, 0, -8.74227766e-08, 0, 1, 0, 8.74227766e-08, 0, -1"
+        },
+        "Time": 224,
+        "TowerName": "unit_tomato_plant"
+    },
+    {
+        "TowerUpgrade": -319.9566650390625,
+        "Name": "unit_tomato_plant",
+        "Time": 224
+    },
+    {
+        "TowerUpgrade": -319.9566650390625,
+        "Name": "unit_tomato_plant",
+        "Time": 224
+    },
+    {
+        "TowerUpgrade": -319.9566650390625,
+        "Name": "unit_tomato_plant",
+        "Time": 225
+    },
+    {
+        "TowerUpgrade": -319.9566650390625,
+        "Name": "unit_tomato_plant",
+        "Time": 226
+    },
+    {
+        "PlaceInfo": {
+            "Valid": true,
+            "Position": "-320.9098815917969, 61.68030548095703, -126.6139144897461",
+            "Rotation": 180,
+            "CF": "-320.909882, 61.6803055, -126.613914, -1, 0, -8.74227766e-08, 0, 1, 0, 8.74227766e-08, 0, -1"
+        },
+        "Time": 229,
+        "TowerName": "unit_tomato_plant"
+    },
+    {
+        "TowerUpgrade": -320.9098815917969,
+        "Name": "unit_tomato_plant",
+        "Time": 230
+    },
+    {
+        "TowerUpgrade": -320.9098815917969,
+        "Name": "unit_tomato_plant",
+        "Time": 231
+    },
+    {
+        "TowerUpgrade": -320.9098815917969,
+        "Name": "unit_tomato_plant",
+        "Time": 233
+    },
+    {
+        "TowerUpgrade": -320.9098815917969,
+        "Name": "unit_tomato_plant",
+        "Time": 234
+    },
+    {
+        "MacroInfo": {
+            "Units": "Tomato",
+            "Speed": "Any",
+            "Difficulty": "Easy",
+            "SeedRate": "0/year"
+        }
+    }
+]
